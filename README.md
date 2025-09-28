@@ -51,3 +51,16 @@ I'm diving into ESP32 to add Wi-Fi and Bluetooth to my LED projects, with Python
 ---
 
 > _“Sparking RGB brilliance with Arduino, Python, Node.js, and soon ESP32!”_
+
+<div align="center">  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
+<h3 align="center">GitHub Statistics</h3>  
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">  
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ideagazm&theme=2077" height="200em" alt="General Stats"/>  
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ideagazm&theme=2077" height="200em" alt="Most Used Languages"/>  
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ideagazm&theme=2077" height="200em" alt="Repositories by Language"/>  
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ideagazm&theme=2077" height="200em" alt="Most Productive Times"/>  
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ideagazm&theme=2077" width="100%" alt="Profile Details"/>  
+</div>  
+</div>  
