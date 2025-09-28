@@ -8,7 +8,7 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 
 ## 👋 Hi, I'm **IdeaGazm!**
 I tinker with **Arduino, RGB LEDs, Python, Node.js, and ESP32 boards** to create vibrant, interactive projects that spark creativity.  
@@ -16,15 +16,15 @@ From LED matrices to web-controlled animations and IoT experiments, I love blend
 
 Currently evolving from **colorful LED art** to **intelligent system control** — where RGB meets IoT meets real-world automation! 🚀
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 
 ### 🚀 **About Me**
 - **Passion:** Crafting colorful LED projects and coding seamless integrations with Python & Node.js  
 - **Current Focus:** Arduino-based LED games, scrolling animations, and **Smart System Control Hub** development  
 - **Evolution Path:** Arduino → ESP32 → Voice Control → Home Assistant → Complete IoT Ecosystems  
-- **Philosophy:** Every project should either glow beautifully or control something intelligently (preferably both!)  
+- **Philosophy:** Every project should either glow beautifully or control something intelligently (preferably both!)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 
 ### 🔧 **Tech Stack**
 
@@ -43,7 +43,7 @@ Currently evolving from **colorful LED art** to **intelligent system control** �
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 
 ### 🌟 **Featured Projects**
 
@@ -60,7 +60,7 @@ Currently evolving from **colorful LED art** to **intelligent system control** �
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 
 ### 🚀 **🔥 FLAGSHIP PROJECT: Smart System Control Hub**
 
@@ -89,6 +89,7 @@ This isn't just another IoT project — it's a **complete system evolution** tha
 🏠 Phase 8: Home Assistant Integration
 💡 Phase 9: ARGB Lighting + Final Polish
 ```
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 
 #### 🛠️ **Tech Integration**
 - **Hardware**: Arduino → ESP32, servo motors, voice modules, relays, ARGB LEDs
@@ -124,14 +125,14 @@ This project demonstrates **real-world problem solving** — transforming a basi
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 
 ### 📈 **Recent Activity**
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 
 ### 🛠️ **What's Next?**
 
@@ -168,7 +169,7 @@ This project demonstrates **real-world problem solving** — transforming a basi
 
 </details>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 
 ### 💡 **Philosophy & Approach**
 
@@ -185,7 +186,7 @@ This project demonstrates **real-world problem solving** — transforming a basi
 - ✅ Step-by-step build instructions
 - ✅ Lessons learned and troubleshooting tips
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 
 ### 📬 **Get in Touch**
 - 💡 **Collaborations**: Always interested in RGB + IoT projects!  
@@ -193,13 +194,11 @@ This project demonstrates **real-world problem solving** — transforming a basi
 - 🎯 **Project Ideas**: Love discussing smart home integrations and creative hardware hacks
 - 📺 **Documentation**: Planning video tutorials for major project phases
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 
 <div align="center">
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ideagazm&style=for-the-badge&color=brightgreen)
-
----
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 
