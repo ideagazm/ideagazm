@@ -63,8 +63,6 @@ From LED matrices to web-controlled animations and IoT experiments, I love blend
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-*To enable this section, you'll need to set up the [GitHub Activity README](https://github.com/jamesgeorge007/github-activity-readme) action in your profile repository.*
-
 ---
 
 ### 🛠️ **What's Next?**
