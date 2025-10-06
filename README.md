@@ -130,10 +130,10 @@ This project demonstrates **real-world problem solving** — transforming a basi
 ### 📈 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/ideagazm/esp32-home-automation/pull/4) in [ideagazm/esp32-home-automation](https://github.com/ideagazm/esp32-home-automation)
-2. 💪 Opened PR [#4](https://github.com/ideagazm/esp32-home-automation/pull/4) in [ideagazm/esp32-home-automation](https://github.com/ideagazm/esp32-home-automation)
-3. 🎉 Merged PR [#2](https://github.com/ideagazm/esp32-home-automation/pull/2) in [ideagazm/esp32-home-automation](https://github.com/ideagazm/esp32-home-automation)
-4. 💪 Opened PR [#2](https://github.com/ideagazm/esp32-home-automation/pull/2) in [ideagazm/esp32-home-automation](https://github.com/ideagazm/esp32-home-automation)
+1. 🎉 Merged PR [#2](https://github.com/ideagazm/ESP32-PlatformIO-Project-Template/pull/2) in [ideagazm/ESP32-PlatformIO-Project-Template](https://github.com/ideagazm/ESP32-PlatformIO-Project-Template)
+2. 💪 Opened PR [#2](https://github.com/ideagazm/ESP32-PlatformIO-Project-Template/pull/2) in [ideagazm/ESP32-PlatformIO-Project-Template](https://github.com/ideagazm/ESP32-PlatformIO-Project-Template)
+3. 🎉 Merged PR [#1](https://github.com/ideagazm/ESP32-PlatformIO-Project-Template/pull/1) in [ideagazm/ESP32-PlatformIO-Project-Template](https://github.com/ideagazm/ESP32-PlatformIO-Project-Template)
+4. 💪 Opened PR [#1](https://github.com/ideagazm/ESP32-PlatformIO-Project-Template/pull/1) in [ideagazm/ESP32-PlatformIO-Project-Template](https://github.com/ideagazm/ESP32-PlatformIO-Project-Template)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
